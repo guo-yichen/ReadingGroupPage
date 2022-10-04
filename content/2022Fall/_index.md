@@ -1,9 +1,9 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
+title: 2022Fall
+linktitle: 2022Fall
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 3
 # icon: book
 # icon_pack: fas
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 数据结构
-linktitle: 数据结构
+title: 2022 Summer
+linktitle: 2022 Summer
 summary: Notes on Python data structures.
 weight: 2
 icon: python
