@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: Numerical Analysis Reading Group
 date: 2022-09-24
 toc: false
 
@@ -8,9 +8,12 @@ image:
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+Welcome to the Numerical Analysis Reading Group in Virginia Tech!
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+The **Numerical Analysis Reading Group** aims to read and discuss interesting papers together. We read [Approximation Theory and Approximation Practice](http://www.chebfun.org/ATAP/) in 2022 Spring, and several [classic papers](https://people.maths.ox.ac.uk/trefethen/classic_papers.txt) in 2022 Summer.
+
+This fall, we are reading papers on Randomized Numerical Linear Algebra!
+
 
 - It is your second brain 🧠, stored in future-proof Markdown files 
 - Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
