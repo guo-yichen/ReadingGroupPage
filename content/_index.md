@@ -3,9 +3,9 @@ title: Numerical Analysis Reading Group
 date: 2022-09-24
 toc: false
 
-image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+#image:
+#  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
+#  caption: NASA
 ---
 
 Welcome to the Numerical Analysis Reading Group in Virginia Tech!
