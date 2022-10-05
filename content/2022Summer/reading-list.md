@@ -6,7 +6,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 1
 ---
 
-Inspired by [thirteen classic papers in NA]{https://people.maths.ox.ac.uk/trefethen/classic_papers.txt}, we read several interesting papers in the summer. 
+Inspired by [thirteen classic papers in NA](https://people.maths.ox.ac.uk/trefethen/classic_papers.txt), we read several interesting papers in the summer. 
 
 Topics list:
 - FFT
@@ -16,5 +16,5 @@ Topics list:
 - Multigrid
 - Machine Learning (Adam algorithm)
 
-See some notes [here]{https://drive.google.com/drive/folders/1Ak3aHT2Y_WG_S5_T4OWi091tiXob8MdN?usp=sharing}.
+See some notes [here](https://drive.google.com/drive/folders/1Ak3aHT2Y_WG_S5_T4OWi091tiXob8MdN?usp=sharing).
 
