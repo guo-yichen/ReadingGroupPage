@@ -1,6 +1,6 @@
 [Website for NA reading group](https://readingmathvt.netlify.app) in Virginia tech. 
 
-
+-----
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
