@@ -16,7 +16,9 @@ The **Numerical Analysis Reading Group** aims to read and discuss interesting pa
 This fall, we are reading papers on Randomized Numerical Linear Algebra!
 
 
-
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
 
 
 
